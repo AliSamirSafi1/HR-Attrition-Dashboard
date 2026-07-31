@@ -19,19 +19,23 @@ Star schema with `Fact_Employees` at the center, joined to:
 
 Key data cleaning steps: removed 3 zero-variance columns (`EmployeeCount`, `Over18`, `StandardHours`), normalized inconsistent category labels, added readable text labels for 7 ordinal rating columns, and derived `AgeGroup` / `SalaryBand` (dynamic quartiles) / `TenureGroup` in Power Query. The dataset has no real hire/promotion dates, only durations — `HireDate` and `PromotionDate` are estimated from tenure for trend analysis, not treated as exact.
 
+## Live Dashboard
+
+🔗 [View the interactive dashboard!](https://app.powerbi.com/view?r=eyJrIjoiNTBhYWFlODMtYjYzMy00MmE1LTljMjktYTBiN2FmZTg0Y2Y2IiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9&pageName=5fe07233ac08a6216b03)
+
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](assets/executive-overview.png)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### Demographic Analysis
-![Demographic Analysis](assets/demographic-analysis.png)
+![Demographic Analysis](screenshots/demographic-analysis.png)
 
 ### Root Cause Analysis
-![Root Cause Analysis](assets/root-cause-analysis.png)
+![Root Cause Analysis](screenshots/root-cause-analysis.png)
 
 ### Performance
-![Performance](assets/performance.png)
+![Performance](screenshots/performance.png)
 
 ## Tech stack
 
