@@ -32,7 +32,7 @@ Key data cleaning steps: removed 3 zero-variance columns (`EmployeeCount`, `Over
 ![Demographic Analysis](screenshots/Demographic-Analysis.jpg)
 
 ### Root Cause Analysis
-![Root Cause Analysis](screenshots/Root-Cause-Analysis.jpb)
+![Root Cause Analysis](screenshots/Root-Cause-Analysis.jpg)
 
 ### Performance
 ![Performance](screenshots/Performance.jpg)
