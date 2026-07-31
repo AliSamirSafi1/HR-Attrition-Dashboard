@@ -26,16 +26,16 @@ Key data cleaning steps: removed 3 zero-variance columns (`EmployeeCount`, `Over
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/executive-overview.jpg)
 
 ### Demographic Analysis
-![Demographic Analysis](screenshots/demographic-analysis.png)
+![Demographic Analysis](screenshots/demographic-analysis.jpg)
 
 ### Root Cause Analysis
-![Root Cause Analysis](screenshots/root-cause-analysis.png)
+![Root Cause Analysis](screenshots/root-cause-analysis.jpb)
 
 ### Performance
-![Performance](screenshots/performance.png)
+![Performance](screenshots/performance.job)
 
 ## Tech stack
 
@@ -44,3 +44,4 @@ Power BI Desktop — data modeling, Power Query M, DAX.
 ---
 
 Created by: Ali Safi
+[LinkedIn Account](https://www.linkedin.com/in/alisamirsafi1/)
