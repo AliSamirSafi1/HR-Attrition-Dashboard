@@ -26,16 +26,16 @@ Key data cleaning steps: removed 3 zero-variance columns (`EmployeeCount`, `Over
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.jpg)
+![Executive Overview](screenshots/Executive-Overview.jpg)
 
 ### Demographic Analysis
-![Demographic Analysis](screenshots/demographic-analysis.jpg)
+![Demographic Analysis](screenshots/Demographic-Analysis.jpg)
 
 ### Root Cause Analysis
-![Root Cause Analysis](screenshots/root-cause-analysis.jpb)
+![Root Cause Analysis](screenshots/Root-Cause-Analysis.jpb)
 
 ### Performance
-![Performance](screenshots/performance.job)
+![Performance](screenshots/Performance.jpg)
 
 ## Tech stack
 
